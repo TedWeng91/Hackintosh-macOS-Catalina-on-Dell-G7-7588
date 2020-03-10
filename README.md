@@ -31,7 +31,7 @@ Let's start by shutting down the computer and booting again, but this time, boot
 **Using the script:** 
 Scroll up and click clone or download, then click Download ZIP. Now browse into the master folder and run the Install.command within the Jack_Fix folder and then reboot!
 
-Note that the script expects the **Hackintosh-macOS-Catalina-on-Dell-G7-7588-master** folder in ~/Downloads/ so if you downloaded the cloned the **dw1820a-aspm-disable** branch as zip rename the folder with the name the script expects, which, again is, **Hackintosh-macOS-Catalina-on-Dell-G7-7588-master**
+Note that the script expects the **Hackintosh-macOS-Catalina-on-Dell-G7-7588-master** folder in **~/Downloads/** so if you cloned the **dw1820a-aspm-disable** branch as zip rename the folder with the name the script expects, which, again is, **Hackintosh-macOS-Catalina-on-Dell-G7-7588-master**
 
 **Enable native HiDPI resolutions manually (not recommended to avoid mistakes):**
 Wait for it to boot. Then go to the Utilities tab located at the top and launch terminal. 
